@@ -9,7 +9,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kafka_pub", "kafka_pub\kafk
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kafka_sub", "kafka_sub\kafka_sub.csproj", "{ED381421-7E9A-46BC-A6B6-2B2FD70453B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rabbitmq_sub", "rabbitmq_sub\rabbitmq_sub.csproj", "{D6EDD30B-0559-45B7-9A85-B7818D844072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rabbitmq_sub", "rabbitmq_sub\rabbitmq_sub.csproj", "{D6EDD30B-0559-45B7-9A85-B7818D844072}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25B7FEFA-4385-4471-96DB-AE3525CA7AB9}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
