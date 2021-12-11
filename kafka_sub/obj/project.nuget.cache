@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OavOIXXCKFoKniUO4ALEqPfI2gKA1CtQ2ECqPJXfMn4tjTCMJBKTfRrmF4BcHHgDU4HrRSv6+n3JKetbJWvViA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\choby\\source\\repos\\mq_demo\\kafka_sub\\kafka_sub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\choby\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\choby\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\choby\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

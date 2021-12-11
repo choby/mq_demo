@@ -1,0 +1,17 @@
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\rabbitmq_pub.exe
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\rabbitmq_pub.deps.json
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\rabbitmq_pub.runtimeconfig.json
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\rabbitmq_pub.dll
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\ref\rabbitmq_pub.dll
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\rabbitmq_pub.pdb
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.csproj.AssemblyReference.cache
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.AssemblyInfoInputs.cache
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.AssemblyInfo.cs
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.csproj.CoreCompileInputs.cache
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.csproj.CopyComplete
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.dll
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\ref\rabbitmq_pub.dll
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.pdb
+C:\Users\choby\source\repos\mq_demo\rabbitmq_pub\obj\Debug\net6.0\rabbitmq_pub.genruntimeconfig.cache

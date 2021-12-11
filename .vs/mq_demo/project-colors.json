@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c8e3e56d-9640-4114-b1d9-086b622d9944": {
+      "ProjectGuid": "c8e3e56d-9640-4114-b1d9-086b622d9944",
+      "DisplayName": "rabbitmq_pub",
+      "ColorIndex": 0
+    },
+    "9349c9ea-3800-4a4c-9475-475c9bd0187b": {
+      "ProjectGuid": "9349c9ea-3800-4a4c-9475-475c9bd0187b",
+      "DisplayName": "kafka_pub",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "ed381421-7e9a-46bc-a6b6-2b2fd70453b4": {
+      "ProjectGuid": "ed381421-7e9a-46bc-a6b6-2b2fd70453b4",
+      "DisplayName": "kafka_sub",
+      "ColorIndex": 2
+    },
+    "d6edd30b-0559-45b7-9a85-b7818d844072": {
+      "ProjectGuid": "d6edd30b-0559-45b7-9a85-b7818d844072",
+      "DisplayName": "rabbitmq_sub",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
